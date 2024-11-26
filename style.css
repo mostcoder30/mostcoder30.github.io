@@ -24,14 +24,11 @@ body {
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
-    transition: color 0.3s ease-in-out;
+   
   }
 
   nav a:hover {
     color: #FFD700;
-  }
-  #profile{
-    align-items: center !important;
   }
   section {
     max-width: 800px;
